@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Creational Design Pattern/1.0.0": {
+        "runtime": {
+          "Creational Design Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creational Design Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

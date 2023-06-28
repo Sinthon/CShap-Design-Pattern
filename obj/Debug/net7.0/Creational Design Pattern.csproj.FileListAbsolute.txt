@@ -1,0 +1,15 @@
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\bin\Debug\net7.0\Creational Design Pattern.exe
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\bin\Debug\net7.0\Creational Design Pattern.deps.json
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\bin\Debug\net7.0\Creational Design Pattern.runtimeconfig.json
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\bin\Debug\net7.0\Creational Design Pattern.dll
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\bin\Debug\net7.0\Creational Design Pattern.pdb
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.csproj.AssemblyReference.cache
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.AssemblyInfoInputs.cache
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.AssemblyInfo.cs
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.csproj.CoreCompileInputs.cache
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.dll
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\refint\Creational Design Pattern.dll
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.pdb
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\Creational Design Pattern.genruntimeconfig.cache
+C:\Personal data\Projects\Repo\.Net Console  App\C# Design Pattern\Creational Design Pattern\obj\Debug\net7.0\ref\Creational Design Pattern.dll
